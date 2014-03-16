@@ -1,0 +1,35 @@
+{
+  "name": "alajo.js",
+  "version": "0.0.1",
+  "description": "Yet another javascript library",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tawrahim/alajo.js"
+  },
+  "keywords": [
+    "learning",
+    "functional-programming"
+  ],
+  "author": "Tawheed Abdul-Raheem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawrahim/alajo.js/issues"
+  },
+  "homepage": "https://github.com/tawrahim/alajo.js",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-concat": "^2.1.7",
+    "gulp-uglify": "^0.2.1",
+    "gulp-jshint": "^1.5.0",
+    "gulp-sass": "^0.7.1",
+    "gulp-minify-css": "^0.3.0"
+  }
+}
